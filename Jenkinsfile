@@ -1,3 +1,4 @@
+#!groovy
 def repo = "version"
 def dockerUser = "discoenv"
 
